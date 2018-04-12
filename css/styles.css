@@ -26,6 +26,14 @@ h2 {
   float: left;
 }
 
+.jumbotron {
+background-image: url("https://static.seattletimes.com/wp-content/uploads/2017/06/f093c03c-4a0a-11e7-8e03-0ed6ca6a8715-780x330.jpg");
+
+background-repeat: no-repeat;
+background-position: top;
+background-size: cover;
+
+}
 .jahborder {
   border: 4px solid black;
   padding: 16px;
@@ -35,3 +43,8 @@ h2 {
     border: 1px solid black;
     padding: 1px;
 {
+
+jumbotron-fluid {
+background-image: url("img\IMG_20170728_204121.jpg");
+
+}
